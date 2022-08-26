@@ -13,4 +13,3 @@ Esse projeto foi desenvolvido durante a semana front-end da DIO (Digital Inovati
 - JavaScript
 
 <b>Link da aplicação online:</b> <a>https://cinthialindolfo-mundoinvertido.netlify.app/</a>
-<b>Link da aplicação online:</b> <a>https://filipelimavaz-strangerthings.netlify.app/
